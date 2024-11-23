@@ -1,0 +1,271 @@
+[
+	{
+
+		"name": "RevoNext",
+
+		"phones": [
+
+			{
+
+				"name": "RH-213 Plus",
+
+				"file": [
+
+					"RevoNext RH-213 Plus"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "RIOBuds",
+
+		"phones": [
+
+			{
+			
+
+				"name": "600 Ohm",
+
+				"file": [
+
+					"RIOBuds 600Ohm"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			
+			{
+			
+
+				"name": "BE",
+
+				"file": [
+
+					"RIOBuds BE"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
+				"name": "Classic",
+
+				"file": [
+
+					"RIOBuds Classic"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
+				"name": "Classiic Donut",
+
+				"file": [
+
+					"RIOBuds Classic Donut"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
+				"name": "CNT",
+
+				"file": [
+
+					"RIOBuds CNT"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
+				"name": "DLC",
+
+				"file": [
+
+					"RIOBuds DLC"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			
+			{
+			
+
+				"name": "Graphene",
+
+				"file": [
+
+					"RIOBuds Graphene"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			
+			{
+			
+
+				"name": "Kevlar",
+
+				"file": [
+
+					"RIOBuds Kevlar"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			
+			{
+			
+
+				"name": "Kevlar Bass",
+
+				"file": [
+
+					"RIOBuds KevlarBass"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			
+			{
+			
+
+				"name": "LCP 300Ohm",
+
+				"file": [
+
+					"RIOBuds LCP300Ohm"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			
+			{
+			
+
+				"name": "LittleMiracle",
+
+				"file": [
+
+					"RIOBuds LittleMiracle"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			
+			{
+			
+
+				"name": "LM",
+
+				"file": [
+
+					"RIOBuds LM"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			
+			{
+			
+
+				"name": "PU",
+
+				"file": [
+
+					"RIOBuds PU"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			
+			{
+
+				"name": "Tesla",
+
+				"file": [
+
+					"RIOBuds Tesla"
+				],
+
+				"suffix": [
+				
+				]
+
+			},
+			{
+			
+
+				"name": "X",
+
+				"file": [
+
+					"RIOBuds X"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	}
+	
+]
