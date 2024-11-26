@@ -1,6 +1,852 @@
 [
 	{
 
+		"name": "7Hz",
+
+		"phones": [
+
+			{
+
+				"name": "Tiimeless",
+
+				"file": [
+
+					"7HZ Timeless"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "Artti",
+
+		"phones": [
+
+			{
+
+				"name": "T10",
+
+				"file": [
+
+					"Artti T10"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "Audiosense",
+
+		"phones": [
+
+			{
+
+				"name": "T800",
+
+				"file": [
+
+					"Audiosense T800"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "BQEYZ",
+
+		"phones": [
+
+			{
+
+				"name": "Summer",
+
+				"file": [
+
+					"BQEYZ Summer"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "BQEYZ",
+
+		"phones": [
+
+			{
+
+				"name": "Winter",
+
+				"file": [
+
+					"BQEYZ Winter"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Celest",
+
+		"phones": [
+
+			{
+
+				"name": "Gumiho",
+
+				"file": [
+
+					"Celest Gumiho"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "CKLVX",
+
+		"phones": [
+
+			{
+
+				"name": "D41",
+
+				"file": [
+
+					"CKLVX D41"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "CKLVX",
+
+		"phones": [
+
+			{
+
+				"name": "H1",
+
+				"file": [
+
+					"CKLVX H1"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "EPZ",
+
+		"phones": [
+
+			{
+
+				"name": "Q1",
+
+				"file": [
+
+					"EPZ Q1"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "EPZ",
+
+		"phones": [
+
+			{
+
+				"name": "Q1 Pro",
+
+				"file": [
+
+					"EPZ Q1 Pro"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "EPZ",
+
+		"phones": [
+
+			{
+
+				"name": "Q1 Pro M100",
+
+				"file": [
+
+					"EPZ Q1 Pro M100"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "EPZ",
+
+		"phones": [
+
+			{
+
+				"name": "Q5",
+
+				"file": [
+
+					"EPZ Q5"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Fitear",
+
+		"phones": [
+
+			{
+
+				"name": "Aya",
+
+				"file": [
+
+					"Fitear Aya"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Fitear",
+
+		"phones": [
+
+			{
+
+				"name": "TG333",
+
+				"file": [
+
+					"Fitear TG333"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Fitear",
+
+		"phones": [
+
+			{
+
+				"name": "TG335SR",
+
+				"file": [
+
+					"Fitear TG335SR"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "FLOaudio",
+
+		"phones": [
+
+			{
+
+				"name": "BlueLover",
+
+				"file": [
+
+					"FLOaudio BlueLover"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "HIFIMAN",
+
+		"phones": [
+
+			{
+
+				"name": "RE800s",
+
+				"file": [
+
+					"HIFIMAN RE800s"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Jade Audio",
+
+		"phones": [
+
+			{
+
+				"name": "EA1 MOD",
+
+				"file": [
+
+					"Jade Audio EA1 MOD"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "JQ",
+
+		"phones": [
+
+			{
+
+				"name": "4U PRO",
+
+				"file": [
+
+					"JQ 4U PRO"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Kinera",
+
+		"phones": [
+
+			{
+
+				"name": "Hodur",
+
+				"file": [
+
+					"Kinera Hodur"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Kinera",
+
+		"phones": [
+
+			{
+
+				"name": "Hodur Final",
+
+				"file": [
+
+					"Kinera Hodur Final"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "AS06",
+
+				"file": [
+
+					"KZ AS06"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "AS12 RIOMOD",
+
+				"file": [
+
+					"KZ AS12 RIOMOD"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "Castor",
+
+				"file": [
+
+					"KZ Castor"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "D-FI 1111",
+
+				"file": [
+
+					"KZ D-FI 1111"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "EDC Pro",
+
+				"file": [
+
+					"KZ EDC Pro"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "PR1",
+
+				"file": [
+
+					"KZ PR1"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "PR1 Hifi",
+
+				"file": [
+
+					"KZ PR1 Hifi"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "PR1 Pro 300MESH",
+
+				"file": [
+
+					"KZ PR1 Pro 300MESH"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "PR1 Pro",
+
+				"file": [
+
+					"KZ PR1 Pro"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "KZ",
+
+		"phones": [
+
+			{
+
+				"name": "PR2",
+
+				"file": [
+
+					"KZ PR2"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Noble",
+
+		"phones": [
+
+			{
+
+				"name": "K10 Encore",
+
+				"file": [
+
+					"KNoble K10 Encore"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Penon",
+
+		"phones": [
+
+			{
+
+				"name": "Vortex",
+
+				"file": [
+
+					"Penon Vortex"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Pula",
+
+		"phones": [
+
+			{
+
+				"name": "PA02",
+
+				"file": [
+
+					"Pula PA02"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+		
+	
+	{
+
 		"name": "RevoNext",
 
 		"phones": [
@@ -79,7 +925,7 @@
 			{
 			
 
-				"name": "Classiic Donut",
+				"name": "Classic Donut",
 
 				"file": [
 
@@ -266,6 +1112,827 @@
 
 		]
 
-	}
+	},
+	
+	{
+
+		"name": "Salnotes",
+
+		"phones": [
+
+			{
+
+				"name": "Dioko",
+
+				"file": [
+
+					"Salnotes Dioko"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Shozy",
+
+		"phones": [
+
+			{
+
+				"name": "B2",
+
+				"file": [
+
+					"Shozy B2"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "Shozy",
+
+		"phones": [
+
+			{
+
+				"name": "Black Hole Mini",
+
+				"file": [
+
+					"Shozy Black Hole Mini"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Shozy",
+
+		"phones": [
+
+			{
+
+				"name": "Pola",
+
+				"file": [
+
+					"Shozy Pola"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Shozy",
+
+		"phones": [
+
+			{
+
+				"name": "T1",
+
+				"file": [
+
+					"Shozy T1"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Shuoer",
+
+		"phones": [
+
+			{
+
+				"name": "D13 STOCK",
+
+				"file": [
+
+					"Shuoer D13 STOCK"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Shuoer",
+
+		"phones": [
+
+			{
+
+				"name": "D13 FOAM",
+
+				"file": [
+
+					"Shuoer D13 FOAM"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Shuoer",
+
+		"phones": [
+
+			{
+
+				"name": "D13 MESH300",
+
+				"file": [
+
+					"Shuoer D13 MESH300"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Shuoer",
+
+		"phones": [
+
+			{
+
+				"name": "D13 FOAM+MESH300",
+
+				"file": [
+
+					"Shuoer D13 FOAM+MESH300"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Simgot",
+
+		"phones": [
+
+			{
+
+				"name": "EA500-B",
+
+				"file": [
+
+					"Simgot EA500-B"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Simgot",
+
+		"phones": [
+
+			{
+
+				"name": "EA500-R",
+
+				"file": [
+
+					"Simgot EA500-R"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Snowy",
+
+		"phones": [
+
+			{
+
+				"name": "A7",
+
+				"file": [
+
+					"Snowy A7"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Sound Rhyme",
+
+		"phones": [
+
+			{
+
+				"name": "DTE500",
+
+				"file": [
+
+					"Sound Rhyme DTE500"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Sound Rhyme",
+
+		"phones": [
+
+			{
+
+				"name": "SR05",
+
+				"file": [
+
+					"Sound Rhyme SR05"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TangZu",
+
+		"phones": [
+
+			{
+
+				"name": "Ze Tian Wu",
+
+				"file": [
+
+					"TangZu Ze Tian Wu"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Tinadirenhe",
+
+		"phones": [
+
+			{
+
+				"name": "TD21",
+
+				"file": [
+
+					"Tinadirenhe TD21"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TinHifi",
+
+		"phones": [
+
+			{
+
+				"name": "C2",
+
+				"file": [
+
+					"TinHifi C2"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TinHifi",
+
+		"phones": [
+
+			{
+
+				"name": "C5",
+
+				"file": [
+
+					"TinHifi C5"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TinHifi",
+
+		"phones": [
+
+			{
+
+				"name": "T1s",
+
+				"file": [
+
+					"TinHifi T1s"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "MT1 MAX 011",
+
+				"file": [
+
+					"TRN MT1 MAX 011"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "MT3",
+
+				"file": [
+
+					"TRN MT3"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "MT4",
+
+				"file": [
+
+					"TRN MT4"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "MT4 PRO",
+
+				"file": [
+
+					"TRN MT4 PRO"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "Orca 011",
+
+				"file": [
+
+					"TRN Orca 011"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "Rosefinch",
+
+				"file": [
+
+					"TRN Rosefinch"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "TA1 Max",
+
+				"file": [
+
+					"TRN TA1 Max"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "TA3",
+
+				"file": [
+
+					"TRN TA3"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "TA4",
+
+				"file": [
+
+					"TRN TA4"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "V10 Pro",
+
+				"file": [
+
+					"TRN V10 Pro"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "TRN",
+
+		"phones": [
+
+			{
+
+				"name": "XuanWu",
+
+				"file": [
+
+					"TRN XuanWu"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Vision Ears",
+
+		"phones": [
+
+			{
+
+				"name": "VE2",
+
+				"file": [
+
+					"Vision Ears VE2"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Vision Ears",
+
+		"phones": [
+
+			{
+
+				"name": "VE8",
+
+				"file": [
+
+					"Vision Ears VE8"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
+	{
+
+		"name": "Yanyin",
+
+		"phones": [
+
+			{
+
+				"name": "Moonlight 2023",
+
+				"file": [
+
+					"Yanyin Moonlight 2023"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
 	
 ]
