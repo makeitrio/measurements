@@ -71,6 +71,32 @@
 		]
 
 	},
+	
+	{
+
+		"name": "BinaryAudio",
+
+		"phones": [
+
+			{
+
+				"name": "DynaQuattro",
+
+				"file": [
+
+					"BinaryAudio DynaQuattro"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	
 	{
 
 		"name": "BQEYZ",
@@ -124,6 +150,21 @@
 				"file": [
 
 					"Celest Gumiho"
+				],
+
+				"suffix": [
+				
+				]
+
+			},
+			
+			{
+
+				"name": "Wyvern Qing",
+
+				"file": [
+
+					"Celest Wyvern Qing"
 				],
 
 				"suffix": [
