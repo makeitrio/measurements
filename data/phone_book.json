@@ -199,6 +199,20 @@
 			},
 			{
 
+				"name": "D62",
+
+				"file": [
+
+					"CKLVX D62"
+				],
+
+				"suffix": [
+				
+				]
+
+			},
+			{
+
 				"name": "H1",
 
 				"file": [
@@ -1588,6 +1602,44 @@
 				"file": [
 
 					"Yanyin MoonLight 2023"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "YU9",
+
+		"phones": [
+
+			{
+
+				"name": "YU9 Yan",
+
+				"file": [
+
+					"YU9 Yan"
+				],
+
+				"suffix": [
+				
+				]
+
+			},
+			{
+
+				"name": "YU9 Yan",
+
+				"file": [
+
+					"YU9 Yan wo foam"
 				],
 
 				"suffix": [
