@@ -297,7 +297,44 @@
 		]
 
 	},
-	
+	{
+
+		"name": "Fiio",
+
+		"phones": [
+
+			{
+
+				"name": "JF11 classicpressure",
+
+				"file": [
+
+					"Fiio JF11 classicpressure"
+				],
+
+				"suffix": [
+				
+				]
+
+			},
+			{
+
+				"name": "JF11 highpresure",
+
+				"file": [
+
+					"Fiio JF11 highpresure"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
 	
 	
 	{
