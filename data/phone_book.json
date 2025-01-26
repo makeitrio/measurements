@@ -841,6 +841,36 @@
 			{
 			
 
+				"name": "Close",
+
+				"file": [
+
+					"RIOBuds close"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
+				"name": "Open",
+
+				"file": [
+
+					"RIOBuds open"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
 				"name": "Classic Donut",
 
 				"file": [
