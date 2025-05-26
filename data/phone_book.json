@@ -1805,6 +1805,90 @@
 
 		]
 
+	},
+	{
+
+		"name": "Oppo",
+
+		"phones": [
+
+			{
+
+				"name": "Enco X",
+
+				"file": [
+
+					"Oppo Enco X ANC"
+				],
+
+				"suffix": [
+				
+				]
+
+			},
+			{
+
+				"name": "Enco Free 4",
+
+				"file": [
+
+					"Oppo Enco Free 4"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "Realme",
+
+		"phones": [
+
+			{
+
+				"name": "Air6 Pro",
+
+				"file": [
+
+					"Realme Air6 Pro"
+				],
+
+				"suffix": [
+				
+				]
+
+			},
+		]
+
+	},
+	{
+
+		"name": "Huawei",
+
+		"phones": [
+
+			{
+
+				"name": "Freebuds Pro 4",
+
+				"file": [
+
+					"Huawei Freebuds Pro 4"
+				],
+
+				"suffix": [
+				
+				]
+
+			},
+		]
+
 	}
 	
 ]
