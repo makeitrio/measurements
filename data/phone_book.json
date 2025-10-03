@@ -911,6 +911,81 @@
 			{
 			
 
+				"name": "CNT-H",
+
+				"file": [
+
+					"RIOBuds CNT-H"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
+				"name": "HD800",
+
+				"file": [
+
+					"RIOBuds HD800"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
+				"name": "HD800-Ref",
+
+				"file": [
+
+					"RIOBuds HD800-Ref"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
+				"name": "Graphene 68Ohm",
+
+				"file": [
+
+					"RIOBuds Graphene 68Ohm"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
+				"name": "Ceramic",
+
+				"file": [
+
+					"RIOBuds Ceramic"
+				],
+
+				"suffix": [
+				
+				]
+
+			}, 
+			{
+			
+
 				"name": "Close",
 
 				"file": [
@@ -1204,6 +1279,44 @@
 				"file": [
 
 					"Salnotes Dioko"
+				],
+
+				"suffix": [
+				
+				]
+
+			}
+
+		]
+
+	},
+	{
+
+		"name": "DIY",
+
+		"phones": [
+
+			{
+
+				"name": "PKPanda",
+
+				"file": [
+
+					"DIY PKPanda"
+				],
+
+				"suffix": [
+				
+				]
+
+			},
+			{
+
+				"name": "LCP300_MX500",
+
+				"file": [
+
+					"DIY LCP300_MX500"
 				],
 
 				"suffix": [
